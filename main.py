@@ -8,4 +8,5 @@ def second_fn(args):
 	return {"message": "success"}
 
 def add(num1, num2):
-	return
+	result = num1 + num2
+	return result
