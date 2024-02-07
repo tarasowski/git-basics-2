@@ -5,4 +5,4 @@ def main(event, ctx):
 	return "success"
 
 def second_fn(args):
-	return "second fn"
+	return {"message": "success"}
